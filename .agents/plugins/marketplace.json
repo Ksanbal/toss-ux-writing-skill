@@ -1,0 +1,20 @@
+{
+  "name": "local-toss-design-skills",
+  "interface": {
+    "displayName": "Local Toss Design Skills"
+  },
+  "plugins": [
+    {
+      "name": "toss-ux",
+      "source": {
+        "source": "local",
+        "path": "./plugins/toss-ux"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Design"
+    }
+  ]
+}

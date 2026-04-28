@@ -1,0 +1,27 @@
+{
+  "name": "toss-ux",
+  "version": "1.0.0",
+  "description": "Toss Apps UX writing and dark-pattern prevention guidance for Codex.",
+  "author": {
+    "name": "Ksanbal"
+  },
+  "homepage": "https://developers-apps-in-toss.toss.im/design/ux-writing.html",
+  "license": "MIT",
+  "keywords": ["toss", "ux-writing", "dark-patterns", "korean", "design", "codex", "claude", "opencode"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Toss UX Writing",
+    "shortDescription": "Toss-style Korean UX writing and dark-pattern checks",
+    "longDescription": "A portable Toss Apps UX writing and dark-pattern prevention skill for Codex, Claude Code, and OpenCode. Use it to review Korean copy, CTA clarity, consent prompts, ads, navigation, and launch risks.",
+    "developerName": "Ksanbal",
+    "category": "Design",
+    "capabilities": ["Interactive", "Write"],
+    "websiteURL": "https://developers-apps-in-toss.toss.im/design/ux-writing.html",
+    "defaultPrompt": [
+      "Review this flow for Toss UX writing and dark-pattern risks",
+      "Rewrite this Korean product copy in Toss-like UX writing style",
+      "Check CTA labels, dialogs, and ad/consent prompts before launch"
+    ],
+    "brandColor": "#0064FF"
+  }
+}
