@@ -1,6 +1,6 @@
 ---
 name: toss-ux-writing-and-dark-patterns
-description: Use when designing, reviewing, or implementing Korean app UX copy and interaction flows that should follow Toss Apps UX writing tone and dark-pattern prevention guidance.
+description: Use for every task that decides, writes, rewrites, reviews, names, labels, or chooses product wording or Korean UX copy, including buttons, CTAs, dialogs, errors, empty states, onboarding, consent, notifications, ads, and dark-pattern risk checks.
 version: 1.0.0
 author: Ksanbal
 license: MIT
@@ -20,7 +20,7 @@ metadata:
 
 ## Overview
 
-Use this skill to write, rewrite, or review Korean product UX copy and interaction flows against Toss Apps design guidance. It combines two official Toss developer documents:
+Use this skill whenever a task decides product wording: writing, rewriting, naming, labeling, choosing button text, reviewing Korean UX copy, or checking interaction flows against Toss Apps design guidance. It combines two official Toss developer documents:
 
 - 다크패턴 방지 정책: https://developers-apps-in-toss.toss.im/design/consumer-ux-guide.html
 - UX 라이팅: https://developers-apps-in-toss.toss.im/design/ux-writing.html
@@ -31,7 +31,8 @@ This skill is an unofficial working checklist. It does not replace the official 
 
 Use this skill when the task involves:
 
-- Korean UX writing for apps, mini apps, onboarding, consent, error, empty, benefit, CTA, dialog, toast, bottom sheet, notification, or ad flows.
+- Any decision about product wording, naming, labels, microcopy, 버튼 문구, CTA, headings, helper text, onboarding, consent, error, empty, benefit, dialog, toast, bottom sheet, notification, or ad copy.
+- Korean UX writing for apps, mini apps, websites, admin tools, product specs, design drafts, implementation tickets, and release messages.
 - Reviewing whether a flow may feel like a dark pattern, forced consent, unexpected interruption, or misleading CTA.
 - Rewriting product copy in a Toss-like tone: clear, friendly, active, positive, casual polite Korean.
 - Checking whether a CTA tells users what happens next.
